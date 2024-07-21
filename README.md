@@ -24,6 +24,8 @@ This Python script demonstrates a basic implementation of steganography using LS
    - Reads LSBs of RGB channels from pixels to reconstruct embedded bit sequences.
    - Combines bits into bytes and decrypts the data using the same XOR cipher and passphrase.
    - Retrieves and displays the decrypted data.
+  
+     
 ![snake](https://github.com/user-attachments/assets/56b4b780-0e89-4aba-b8d7-1b07bcba274c) 
 
 ## Installation
